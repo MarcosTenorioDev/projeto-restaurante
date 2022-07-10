@@ -1,3 +1,13 @@
+
+.navHome ul{
+    margin: 0;
+}
+h1{
+    font-size: 45px;
+}
+h1 span{
+    color: blue;
+}
 .menu{
     max-width: 600px;
 }
