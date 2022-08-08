@@ -10,7 +10,7 @@
 - `` CSS ``
 
 ## 💻Descrição
-<p> Página responsiva, feita com o propósito de servir como a apresentação de um restaurante e treinar funcionalidades HTML</p>
+<p> Página feita com o propósito de servir como a apresentação de um restaurante e treinar funcionalidades HTML</p>
 
 ## Obrigado por visitar! ❤️
 
